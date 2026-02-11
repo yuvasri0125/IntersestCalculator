@@ -36,5 +36,5 @@ And the app will compute:
 - **Design Principles:** OOP, modular structure, exception handling :contentReference[oaicite:3]{index=3}
 
 
-## 📁 Project Structure
+
 
